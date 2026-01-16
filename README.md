@@ -1,4 +1,4 @@
-# DOM Practice Playground
+# DOM Practice 
 
 This repository is created **only for my personal practice and learning** of JavaScript DOM concepts.
 
